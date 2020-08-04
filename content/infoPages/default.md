@@ -1,6 +1,6 @@
 ---
 template: DefaultPage
-slug: design
+slug: default
 title: Design
 featuredImage: 'https://ucarecdn.com/348e5691-03ff-4d46-b9b0-7d1b94db34ac/'
 meta:
