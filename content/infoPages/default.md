@@ -1,44 +1,26 @@
 ---
 template: DefaultPage
-slug: default
-title: Default
-featuredImage: https://ucarecdn.com/7ec2ff8c-5ef7-4dd8-b551-baa44d114cc3/
+slug: design
+title: Design
+featuredImage: 'https://ucarecdn.com/348e5691-03ff-4d46-b9b0-7d1b94db34ac/'
 meta:
-  description: test meta description
-  title: test meta title
+  description: ''
+  title: ''
 ---
+## 
 
-## This is the DefaultPage template
+![find](https://ucarecdn.com/7a8606f6-8475-4148-86c8-41ee2edd9578/ "Find a Restaurant")
 
-Paragraphs are separated by a blank line.
+![Map](https://ucarecdn.com/1463d368-2677-4a88-aa6d-add73c534af4/ "Map View")
 
-The second paragraph. This is placeholder text that our web designers put here to make sure words appear properly on your website. _Italic_, **bold**, and `monospace`.
+![List](https://ucarecdn.com/a1379672-b090-486e-ac66-ab041f23005b/ "List View")
 
-### Unordered lists:
+![filter](https://ucarecdn.com/27227127-bbca-473f-b768-061ad6c83a3f/ "Filter")
 
-- this one
-- that one
-- the other one
+![landing](https://ucarecdn.com/c71de65a-50ba-44d2-8ef9-f0b0cf2963cb/ "Restaurant Landing")
 
-### Ordered lists:
+![dish](https://ucarecdn.com/940d0bc2-4a59-4ab1-b5f4-cb989ce547a7/ "Dish")
 
-1.  first item
-1.  second item
-1.  third item
+![hashtag](https://ucarecdn.com/6fe7c3ec-681b-4b43-adfa-2184cf1c93d4/ "Hashtag")
 
-> Block quotes are written like so.
->
-> They can span multiple paragraphs,
-> if you like.
-
-# Heading 1
-
-## Heading 2
-
-### Heading 3
-
-#### Heading 4
-
-##### Heading 5
-
-###### Heading 6
+![global](https://ucarecdn.com/c5c7e977-96c7-4f7f-8044-0bc21a2d15fd/ "Global Navigation")
