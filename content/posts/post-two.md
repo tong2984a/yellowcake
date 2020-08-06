@@ -3,7 +3,7 @@ template: SinglePost
 title: Organic Cannellini Beans - 1kg
 status: Published
 date: '2018-03-28'
-featuredImage: 'https://ucarecdn.com/49d31a01-b6ab-40a5-829a-1d78f004f762/'
+featuredImage: 'https://ucarecdn.com/61095907-12fe-48d1-8428-5cd8afde2272/'
 excerpt: Organic Cannellini Beans - 1kg
 categories:
   - category: Mirror & Vegan Concept．素食西餐
