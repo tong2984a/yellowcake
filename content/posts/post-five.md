@@ -5,6 +5,8 @@ status: Published
 date: '2018-05-25'
 featuredImage: 'https://ucarecdn.com/b7433a5a-66ff-4e83-86d2-3a2ae42a3e2f/'
 excerpt: Organic Sourdough Bread
+categories:
+  - category: Mirror & Vegan Concept．素食西餐
 meta:
   description: ''
   title: ''
