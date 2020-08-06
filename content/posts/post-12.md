@@ -3,7 +3,7 @@ template: SinglePost
 title: 'Vegan Soy-Free Coconut Yogurt, Natural - 400g'
 status: Published
 date: '2018-05-25'
-featuredImage: 'https://ucarecdn.com/242d2bd6-04d2-4a9c-8682-c15c6cbee404/'
+featuredImage: 'https://ucarecdn.com/63ef4555-9b8a-4141-927d-3dd753818cab/'
 excerpt: 'Vegan Soy-Free Coconut Yogurt, Natural - 400g'
 categories:
   - category: FoodCraft
