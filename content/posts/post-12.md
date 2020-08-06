@@ -11,4 +11,4 @@ meta:
   description: ''
   title: ''
 ---
-Vegan Soy-Free Coconut Yogurt, Natural - 400g
+![](https://ucarecdn.com/46aa96bd-f975-4d7d-80c8-4b6107e20810/)
