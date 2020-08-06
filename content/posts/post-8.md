@@ -3,7 +3,7 @@ template: SinglePost
 title: Organic Chickpea Tempeh (250g)
 status: Published
 date: '2018-05-25'
-featuredImage: 'https://ucarecdn.com/a5f73d66-592b-4e1a-bd34-5a4347c81265/'
+featuredImage: 'https://ucarecdn.com/e5fd3c7d-8332-4cbc-94df-bda030ac21ef/'
 excerpt: Organic Chickpea Tempeh (250g)
 categories:
   - category: 一素店 One Vegan Shop
