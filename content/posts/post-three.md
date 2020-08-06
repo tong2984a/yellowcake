@@ -3,7 +3,7 @@ template: SinglePost
 title: 'Gluten-Free Paleo Cookie, Double Chocolate Chip'
 status: Published
 date: '2018-03-28'
-featuredImage: 'https://ucarecdn.com/1293cc5c-ae69-40e2-adeb-b0e763c1891c/'
+featuredImage: 'https://ucarecdn.com/aebd3599-2739-4d2d-92c6-307cdc3a7209/'
 excerpt: 'Gluten-Free Paleo Cookie, Double Chocolate Chip'
 categories:
   - category: Mirror & Vegan Concept．素食西餐
