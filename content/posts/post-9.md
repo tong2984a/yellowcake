@@ -3,7 +3,7 @@ template: SinglePost
 title: Organic Vegan Tofu Feta Cheese - 200g
 status: Featured / Published
 date: '2018-03-27'
-featuredImage: 'https://ucarecdn.com/0bf1422b-6a7a-47c3-a2af-7d3ee32b1126/'
+featuredImage: 'https://ucarecdn.com/6e5a7d50-1cf4-451e-9f61-424a08b5e245/'
 excerpt: Organic Vegan Tofu Feta Cheese - 200g
 categories:
   - category: Gaia Veggie Shop
