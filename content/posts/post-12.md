@@ -1,19 +1,14 @@
 ---
 template: SinglePost
-title: Trees
+title: 'Vegan Soy-Free Coconut Yogurt, Natural - 400g'
 status: Published
 date: '2018-05-25'
-featuredImage: 'https://ucarecdn.com/52b27af8-262d-4e2c-9773-15125ab8a5b2/'
-excerpt: >-
-  This is placeholder text that our web designers put here to make sure words
-  appear properly on your website. This text is going to be replaced once the
-  website is completed. You are currently reading text that is written in
-  English, not any other language.
+featuredImage: 'https://ucarecdn.com/300f286c-2f00-44a6-8478-f8d4c033af4a/'
+excerpt: 'Vegan Soy-Free Coconut Yogurt, Natural - 400g'
+categories:
+  - category: FoodCraft
 meta:
-  description: test meta description
-  title: test meta title
+  description: ''
+  title: ''
 ---
-
-This is placeholder text that our web designers put here to make sure words appear properly on your website. This text is going to be replaced once the website is completed. You are currently reading text that is written in English, not any other language.
-
-Be careful not to waste too much time reading placeholder text! This text isn’t going to remain here because it doesn't pertain to the website. This paragraph has been copied from a program that automatically generates paragraphs like this. It is useful for web designers to use placeholder text so they can easily see what different fonts look like on a realistic paragraph.
+Vegan Soy-Free Coconut Yogurt, Natural - 400g
