@@ -1,17 +1,14 @@
 ---
 template: SinglePost
-title: Post Two
+title: Organic Cannellini Beans - 1kg
 status: Published
 date: '2018-03-28'
-featuredImage: 'https://ucarecdn.com/57002902-e8b3-4315-9995-beb637b29128/'
-excerpt: This is an excerpt of Post Two
+featuredImage: 'https://ucarecdn.com/73521f1b-654e-43d3-b615-ec99a5d28a33/'
+excerpt: Organic Cannellini Beans - 1kg
 categories:
-  - category: Updates
+  - category: Mirror & Vegan Concept．素食西餐
 meta:
-  description: test meta description
-  title: test meta title
+  description: ''
+  title: ''
 ---
-
-This is placeholder text that our web designers put here to make sure words appear properly on your website. This text is going to be replaced once the website is completed. You are currently reading text that is written in English, not any other language. Be careful not to waste too much time reading placeholder text! This text isn’t going to remain here because it doesn't pertain to the website.
-
-This paragraph has been copied from a program that automatically generates paragraphs like this. It is useful for web designers to use placeholder text so they can easily see what different fonts look like on a realistic paragraph.
+![](https://ucarecdn.com/c4ef277d-6681-43c7-bb71-b6075c614d39/)
