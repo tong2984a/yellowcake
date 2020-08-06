@@ -1,20 +1,14 @@
 ---
 template: SinglePost
-title: River
+title: Organic Chickpea Tempeh (250g)
 status: Published
 date: '2018-05-25'
-featuredImage: >-
-  https://ucarecdn.com/d6ad4f3e-40a1-49cf-8cf0-f06a25d08544/-/crop/1690x1484/0,882/-/preview/
-excerpt: >-
-  This is placeholder text that our web designers put here to make sure words
-  appear properly on your website. This text is going to be replaced once the
-  website is completed. You are currently reading text that is written in
-  English, not any other language.
+featuredImage: 'https://ucarecdn.com/a5f73d66-592b-4e1a-bd34-5a4347c81265/'
+excerpt: Organic Chickpea Tempeh (250g)
+categories:
+  - category: 一素店 One Vegan Shop
 meta:
-  description: test meta description
-  title: test meta title
+  description: ''
+  title: ''
 ---
-
-This is placeholder text that our web designers put here to make sure words appear properly on your website. This text is going to be replaced once the website is completed. You are currently reading text that is written in English, not any other language.
-
-Be careful not to waste too much time reading placeholder text! This text isn’t going to remain here because it doesn't pertain to the website. This paragraph has been copied from a program that automatically generates paragraphs like this. It is useful for web designers to use placeholder text so they can easily see what different fonts look like on a realistic paragraph.
+![](https://ucarecdn.com/949d4af8-63c0-47f2-b789-e360e661fbfb/)
