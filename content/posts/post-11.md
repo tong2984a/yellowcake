@@ -11,4 +11,4 @@ meta:
   description: ''
   title: ''
 ---
-Spiral Food Buckwheat Ramen - 88g
+![](https://ucarecdn.com/5a560437-7317-44b3-99c9-b040f3008c75/)
